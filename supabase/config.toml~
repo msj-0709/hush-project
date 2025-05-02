@@ -1,3 +1,0 @@
-[functions]
-api_url = "env(api_url)"
-anon_key = "env(anon_key)"
